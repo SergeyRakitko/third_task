@@ -1,0 +1,11 @@
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\ModelTest\bin\Debug\ModelTest.dll
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\ModelTest\bin\Debug\ModelTest.pdb
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\ModelTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\ModelTest\bin\Debug\Model.dll
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\ModelTest\bin\Debug\Model.pdb
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\ModelTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\ModelTest\obj\Debug\ModelTest.csprojResolveAssemblyReference.cache
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\ModelTest\obj\Debug\ModelTest.dll
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\ModelTest\obj\Debug\ModelTest.pdb
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\ModelTest\bin\Debug\ModelTest.dll.CodeAnalysisLog.xml
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\ModelTest\bin\Debug\ModelTest.dll.lastcodeanalysissucceeded

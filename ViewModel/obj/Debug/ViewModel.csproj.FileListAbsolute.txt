@@ -1,0 +1,7 @@
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\ViewModel\bin\Debug\ViewModel.dll
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\ViewModel\bin\Debug\ViewModel.pdb
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\ViewModel\obj\Debug\ViewModel.dll
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\ViewModel\obj\Debug\ViewModel.pdb
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\ViewModel\bin\Debug\Model.dll
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\ViewModel\bin\Debug\Model.pdb
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\ViewModel\obj\Debug\ViewModel.csprojResolveAssemblyReference.cache

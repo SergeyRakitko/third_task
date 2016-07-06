@@ -1,0 +1,6 @@
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\Model\bin\Debug\Model.dll
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\Model\bin\Debug\Model.pdb
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\Model\obj\Debug\Model.dll
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\Model\obj\Debug\Model.pdb
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\Model\bin\Debug\Model.dll.CodeAnalysisLog.xml
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\Model\bin\Debug\Model.dll.lastcodeanalysissucceeded

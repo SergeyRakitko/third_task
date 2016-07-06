@@ -1,0 +1,13 @@
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\ViewModelTest\bin\Debug\ViewModelTest.dll
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\ViewModelTest\bin\Debug\ViewModelTest.pdb
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\ViewModelTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\ViewModelTest\bin\Debug\ViewModel.dll
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\ViewModelTest\bin\Debug\Model.dll
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\ViewModelTest\bin\Debug\ViewModel.pdb
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\ViewModelTest\bin\Debug\Model.pdb
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\ViewModelTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\ViewModelTest\obj\Debug\ViewModelTest.csprojResolveAssemblyReference.cache
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\ViewModelTest\obj\Debug\ViewModelTest.dll
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\ViewModelTest\obj\Debug\ViewModelTest.pdb
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\ViewModelTest\bin\Debug\ViewModelTest.dll.CodeAnalysisLog.xml
+E:\Projects\Microsoft Visual Studio\6_semester\third_task\ViewModelTest\bin\Debug\ViewModelTest.dll.lastcodeanalysissucceeded
